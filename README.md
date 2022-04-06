@@ -1,13 +1,16 @@
+<img align ="right" width="400" alt="coding" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif">
 <h1 align="center">Hi 👋, I'm Brodrick George</h1>
 <h3 align="center">A passionate full-stack developer from Chicago Illinois!</h3>
-<img align=“right” alt=“coding” width=“400” src=”https://stormotion.io/blog/content/images/2018/12/developer.gif” >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brodrickgeorge&label=Profile%20views&color=0e75b6&style=flat" alt="brodrickgeorge" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=brodrickgeorge" alt="brodrickgeorge" /></a> </p>
 
+- 📫 How to reach me **brodrickgeorge@icloud.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/brodrickgeorge" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="brodrickgeorge" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -16,5 +19,8 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=brodrickgeorge&show_icons=true&locale=en&layout=compact" alt="brodrickgeorge" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=brodrickgeorge&show_icons=true&locale=en" alt="brodrickgeorge" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=brodrickgeorge&" alt="brodrickgeorge" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=brodrickgeorge&" alt="brodrickgeorge" /></p>
