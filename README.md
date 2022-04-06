@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Brodrick George</h1>
 <h3 align="center">A passionate full-stack developer from Chicago Illinois!</h3>
-<img align=“right” alt=“coding” width=“400” src”https://stormotion.io/blog/content/images/2018/12/developer.gif”>
+<img align=“right” alt=“coding” width=“400” src=”https://stormotion.io/blog/content/images/2018/12/developer.gif” >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brodrickgeorge&label=Profile%20views&color=0e75b6&style=flat" alt="brodrickgeorge" /> </p>
 
