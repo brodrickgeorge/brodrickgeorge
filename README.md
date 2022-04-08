@@ -1,6 +1,6 @@
 <img align ="right" width="400" alt="coding" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif">
 <h1 align="center">Hi 👋, I'm Brodrick George</h1>
-<h3 align="center">A passionate full-stack developer from Chicago Illinois! When I'm not coding, I'm in the gym, watching anime, or enjoying nature at a forest preserve.</h3>
+<h3 align="center">A passionate full-stack developer from Chicago Illinois! When I'm not coding, I'm in the gym, watching anime, or enjoying nature at a forest preserve. I love everything tech and am excited for what the future holds!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brodrickgeorge&label=Profile%20views&color=0e75b6&style=flat" alt="brodrickgeorge" /> </p>
 
