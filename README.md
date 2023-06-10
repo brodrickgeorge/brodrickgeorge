@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brodrickgeorge&label=Profile%20views&color=0e75b6&style=flat" alt="brodrickgeorge" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank"><img src="https://github-profile-trophy.vercel.app/?username=brodrickgeorge" alt="brodrickgeorge" /></a> </p>
-
 - 📫 How to reach me **brodrickgeorge@icloud.com**
 
 <h3 align="left">Connect with me:</h3>
